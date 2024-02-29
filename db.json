@@ -1,0 +1,56 @@
+{
+    "advertisements": [
+        {
+            "title":"jigler",
+            "description":"se foloseste de catre 2 persoane, daca n-ai prieteni nu e bun pt tine",
+            "price":200,
+            "image":"https://mui.com/static/images/cards/contemplative-reptile.jpg"
+      
+        }, 
+        {
+            "title":"topor",
+            "description":"mere si fara prieteni, e si mai ieftin",
+            "price":20,
+            "image":"https://mui.com/static/images/cards/contemplative-reptile.jpg"
+      
+        }, 
+        {
+            "title":"cutit",
+            "description":"cand te supara prietenul",
+            "price":200,
+            "image":"https://mui.com/static/images/cards/contemplative-reptile.jpg"
+      
+        }, 
+        {
+            "title":"sapa",
+            "description":"ati inteles voi",
+            "price":23.5,
+            "image":"https://mui.com/static/images/cards/contemplative-reptile.jpg"
+      
+        }, 
+        {
+            "title":"prieten",
+            "description":"e jucarie, dar totusi",
+            "price":1000,
+            "image":"https://mui.com/static/images/cards/contemplative-reptile.jpg"
+      
+        } 
+    ],
+    "categories": [
+      {
+        "name":"Ustensile"
+      },
+      {
+        "name":"Ustensile bucatarie"
+      },
+      {
+        "name":"Turism"
+      },
+      {
+        "name":"Electrocasnice si electronice"
+      },
+      {
+        "name":"Imobiliare"
+      }
+    ]
+  }
